@@ -2,7 +2,7 @@
 <!-- Repo must be named exactly:  narcis-dev/narcis-dev  →  renders on your profile -->
 
 <a href="https://framelogic.co.uk">
-  <img width="100%" src="https://raw.githubusercontent.com/narcis-dev/narcis-dev/main/banner.png" alt="Frames — Founder @ FrameLogic · I build the tech behind great products & communities" />
+  <img width="100%" src="https://raw.githubusercontent.com/narcis-dev/narcis-dev/main/banner.png" alt="Frames, Founder @ FrameLogic · I build the tech behind great products & communities" />
 </a>
 
 <div align="center">
@@ -33,7 +33,7 @@ const frames = {
 };
 ```
 
-> **TL;DR** — I take products the whole way: empty repo → App Store, Figma idea → paying SaaS.
+> **TL;DR.** I take products the whole way: empty repo → App Store, Figma idea → paying SaaS.
 > Everything below is **actually live**. And if *you're* building something, I probably build the parts you need.
 
 <div align="center">
@@ -63,7 +63,7 @@ Real-time car-meet & convoy app for the automotive community.
 <td width="50%" valign="top">
 
 #### 🔧 [Autera](https://getautera.com)
-Garage-management SaaS — jobs, invoicing, VHC, accounting integrations, mobile app.
+Garage-management SaaS, jobs, invoicing, VHC, accounting integrations, mobile app.
 **Live, paying customers.**
 <br/><br/>
 `Next.js` `TypeScript` `PostgreSQL` `Stripe` `Xero/QBO`
@@ -76,7 +76,7 @@ Garage-management SaaS — jobs, invoicing, VHC, accounting integrations, mobile
 <td width="50%" valign="top">
 
 #### 📸 [MediaByFrame](https://mediabyframe.com)
-My creative agency — automotive & lifestyle photography, content & marketing.
+My creative agency, automotive & lifestyle photography, content & marketing.
 Site, booking flow & galleries all self-built.
 <br/><br/>
 `PHP` `SEO` `Cloudflare R2`
@@ -85,9 +85,9 @@ Site, booking flow & galleries all self-built.
 <td width="50%" valign="top">
 
 #### 🧰 More
-[`DeviceScanner`](https://github.com/narcis-dev/device-scanner) — Mac + iOS scanning tool ·
-`keel` — algo-trading engine ·
-`Migoland` — browser MMO revival ·
+[`DeviceScanner`](https://github.com/narcis-dev/device-scanner), Mac + iOS scanning tool ·
+`keel`, algo-trading engine ·
+`Migoland`, browser MMO revival ·
 a fleet of Next.js / PHP sites on my own VPS.
 
 </td>
@@ -98,19 +98,19 @@ a fleet of Next.js / PHP sites on my own VPS.
 
 ### 🎬 See it live
 
-<a href="https://fullrev.app"><img width="100%" src="https://raw.githubusercontent.com/narcis-dev/narcis-dev/main/showcase.png" alt="FullRev — live on the App Store & Google Play" /></a>
+<a href="https://fullrev.app"><img width="100%" src="https://raw.githubusercontent.com/narcis-dev/narcis-dev/main/showcase.png" alt="FullRev, live on the App Store & Google Play" /></a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
 ### 💼 What I can build for you
 
 Running a **Minecraft server / gaming network**, a **Discord community**, or a **startup**?
-This is the exact stack those need — and I ship it end to end:
+This is the exact stack those need, and I ship it end to end:
 
 <table>
 <tr>
 <td width="33%" align="center">🌐<br/><b>Websites & Landing Pages</b><br/><sub>fast, custom, conversion-built</sub></td>
-<td width="33%" align="center">🛒<br/><b>Web Stores</b><br/><sub>ranks, cosmetics, subscriptions — Stripe-powered</sub></td>
+<td width="33%" align="center">🛒<br/><b>Web Stores</b><br/><sub>ranks, cosmetics, subscriptions, Stripe-powered</sub></td>
 <td width="33%" align="center">🤖<br/><b>Discord Bots</b><br/><sub>tickets, verification, automation</sub></td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ This is the exact stack those need — and I ship it end to end:
 </tr>
 </table>
 
-<div align="center"><sub>Full-stack, self-hosted on my own infra — no per-seat SaaS tax, no vendor lock-in.</sub></div>
+<div align="center"><sub>Full-stack, self-hosted on my own infra. No per-seat SaaS tax, no vendor lock-in.</sub></div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
@@ -148,7 +148,7 @@ This is the exact stack those need — and I ship it end to end:
 
 <div align="center">
 
-**Server, community, startup, or app — if you can describe it, I can ship it.**
+**Server, community, startup, or app. If you can describe it, I can ship it.**
 <br/>My DMs are open and my turnaround is fast.
 
 <br/>
