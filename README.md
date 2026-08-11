@@ -140,3 +140,5 @@ a fleet of Next.js / PHP sites on my own VPS.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:2563EB,100:6D28D9&height=110&section=footer" alt="footer" />
+
+<!-- refresh -->
