@@ -36,6 +36,12 @@ const frames = {
 > **TL;DR** — I take products the whole way: empty repo → App Store, Figma idea → paying SaaS.
 > Everything below is **actually live**. And if *you're* building something, I probably build the parts you need.
 
+<div align="center">
+
+**🚀 3 live products** &nbsp;·&nbsp; **📱 iOS · Android · Web** &nbsp;·&nbsp; **⚡ Solo-built, end to end**
+
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
 ### 🚀 Shipping right now
@@ -90,6 +96,12 @@ a fleet of Next.js / PHP sites on my own VPS.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
+### 🎬 See it live
+
+<a href="https://fullrev.app"><img width="100%" src="https://raw.githubusercontent.com/narcis-dev/narcis-dev/main/showcase.png" alt="FullRev — live on the App Store & Google Play" /></a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
+
 ### 💼 What I can build for you
 
 Running a **Minecraft server / gaming network**, a **Discord community**, or a **startup**?
@@ -116,9 +128,17 @@ This is the exact stack those need — and I ship it end to end:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,nodejs,php,swift,kotlin&theme=dark)](https://skillicons.dev)
+**Mobile**
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=firebase,postgres,tailwind,stripe,cloudflare,vercel,discord,figma,git,github&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=flutter,dart,swift,kotlin&theme=dark)](https://skillicons.dev)
+
+**Web & Backend**
+<br/>
+[![](https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,php,tailwind&theme=dark)](https://skillicons.dev)
+
+**Data · Infra · Tools**
+<br/>
+[![](https://skillicons.dev/icons?i=postgres,firebase,stripe,cloudflare,vercel,discord,git,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
