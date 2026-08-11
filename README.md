@@ -2,23 +2,23 @@
 <!-- Repo must be named exactly:  narcis-dev/narcis-dev  →  renders on your profile -->
 
 <a href="https://fullrev.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:00D4AA&height=200&section=header&text=Frames&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Founder%20@%20FrameLogic%20·%20I%20build%20and%20ship%20real%20products&descSize=18&descAlignY=60&animation=fadeIn" alt="Frames" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:00D4AA&height=210&section=header&text=Frames&fontSize=66&fontColor=ffffff&fontAlignY=34&desc=Founder%20@%20FrameLogic%20·%20I%20build%20and%20ship%20real%20products&descSize=18&descAlignY=58&animation=fadeIn" alt="Frames" />
 </a>
 
 <div align="center">
 
-<a href="https://github.com/narcis-dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=720&lines=Full-stack+%2B+mobile+developer.;Shipped+a+LIVE+App+Store+app+%F0%9F%9A%80;Built+a+B2B+SaaS+from+zero.;Flutter+%C2%B7+Next.js+%C2%B7+Firebase+%C2%B7+Postgres;I+don't+demo.+I+ship." alt="Typing SVG" /></a>
+<a href="https://github.com/narcis-dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=760&lines=Full-stack+%2B+mobile+developer.;Shipped+a+LIVE+App+Store+app+%F0%9F%9A%80;Built+a+B2B+SaaS+from+zero.;Flutter+%C2%B7+Next.js+%C2%B7+Firebase+%C2%B7+Postgres;I+don't+demo.+I+ship." alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=narcis-dev&label=Profile%20views&color=2563EB&style=flat-square" alt="views" />
-<a href="https://github.com/narcis-dev?tab=followers"><img src="https://img.shields.io/github/followers/narcis-dev?label=Follow&style=flat-square&color=6D28D9&labelColor=1c1c1c" alt="followers" /></a>
-<img src="https://img.shields.io/badge/London-UK-2563EB?style=flat-square&labelColor=1c1c1c" alt="location" />
-<img src="https://img.shields.io/badge/Open%20to-Collabs-00D4AA?style=flat-square&labelColor=1c1c1c" alt="open" />
+<img src="https://komarev.com/ghpvc/?username=narcis-dev&label=Profile%20views&color=2563EB&style=for-the-badge&labelColor=0d1117" alt="views" />
+<a href="https://github.com/narcis-dev?tab=followers"><img src="https://img.shields.io/github/followers/narcis-dev?label=Follow&style=for-the-badge&color=6D28D9&labelColor=0d1117" alt="followers" /></a>
+<img src="https://img.shields.io/badge/📍_London-UK-2563EB?style=for-the-badge&labelColor=0d1117" alt="location" />
+<img src="https://img.shields.io/badge/⚡_Status-Shipping-00D4AA?style=for-the-badge&labelColor=0d1117" alt="status" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
 ### 👋 About me
 
@@ -34,10 +34,10 @@ const frames = {
 };
 ```
 
-I'm a solo founder who takes products the whole way — from an empty repo to the App Store,
-from a Figma idea to a paying SaaS. Below is stuff that's **actually live**, not side-project graveyard.
+> **TL;DR** — I take products the whole way: empty repo → App Store, Figma idea → paying SaaS.
+> Everything below is **actually live**, not a side-project graveyard.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
 ### 🚀 Shipping right now
 
@@ -89,31 +89,19 @@ a fleet of Next.js / PHP sites on my own VPS.
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
-### 🛠️ Tech I build with
+### 🛠️ My toolbox
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,nodejs,php,swift,kotlin&theme=dark)](https://skillicons.dev)
 <br/>
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=firebase,postgres,tailwind,stripe,cloudflare,vercel,figma,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
 ### 📊 The numbers
 
@@ -122,11 +110,18 @@ a fleet of Next.js / PHP sites on my own VPS.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=narcis-dev&show_icons=true&hide_border=true&title_color=2563EB&icon_color=00D4AA&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=narcis-dev&hide_border=true&background=0d1117&stroke=2563EB&ring=6D28D9&fire=00D4AA&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narcis-dev&layout=compact&hide_border=true&title_color=2563EB&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="langs" />
+</div>
+
+<!-- Animated contribution graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=narcis-dev&bg_color=0d1117&color=00D4AA&line=6D28D9&point=2563EB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=narcis-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commits,Repositories,Followers,Stars,Issues,PullRequest,Experience" alt="trophies" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
 ### 🔗 Find me
 
@@ -137,8 +132,10 @@ a fleet of Next.js / PHP sites on my own VPS.
 [![MediaByFrame](https://img.shields.io/badge/MediaByFrame-1c1c1c?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://mediabyframe.com)
 [![FrameLogic](https://img.shields.io/badge/FrameLogic-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://framelogic.co.uk)
 
+<br/><br/>
+
+_“Design it, build it, ship it, run it.”_ ⚡
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:2563EB,100:6D28D9&height=110&section=footer" alt="footer" />
-
-<!-- refresh -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:2563EB,100:6D28D9&height=120&section=footer" alt="footer" />
