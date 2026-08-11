@@ -1,8 +1,8 @@
 <!-- ══════════════════════  FRAMES · GitHub Profile README  ══════════════════════ -->
 <!-- Repo must be named exactly:  narcis-dev/narcis-dev  →  renders on your profile -->
 
-<a href="https://fullrev.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:00D4AA&height=210&section=header&text=Frames&fontSize=66&fontColor=ffffff&fontAlignY=34&desc=Founder%20@%20FrameLogic%20·%20I%20build%20the%20tech%20behind%20great%20products%20%26%20communities&descSize=17&descAlignY=58&animation=fadeIn" alt="Frames" />
+<a href="https://framelogic.co.uk">
+  <img width="100%" src="https://raw.githubusercontent.com/narcis-dev/narcis-dev/main/banner.png" alt="Frames — Founder @ FrameLogic · I build the tech behind great products & communities" />
 </a>
 
 <div align="center">
@@ -11,10 +11,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=narcis-dev&label=Profile%20views&color=2563EB&style=for-the-badge&labelColor=0d1117" alt="views" />
-<a href="https://github.com/narcis-dev?tab=followers"><img src="https://img.shields.io/github/followers/narcis-dev?label=Follow&style=for-the-badge&color=6D28D9&labelColor=0d1117" alt="followers" /></a>
-<img src="https://img.shields.io/badge/📍_London-UK-2563EB?style=for-the-badge&labelColor=0d1117" alt="location" />
-<a href="https://framelogic.co.uk"><img src="https://img.shields.io/badge/💼_Open_for-Work_%26_Collabs-00D4AA?style=for-the-badge&labelColor=0d1117" alt="open for work" /></a>
+<img src="https://img.shields.io/badge/London-UK-2563EB?style=for-the-badge&labelColor=08080b" alt="location" />
+<img src="https://img.shields.io/badge/Full--Stack-%2B_Mobile-6D28D9?style=for-the-badge&labelColor=08080b" alt="role" />
+<a href="https://framelogic.co.uk"><img src="https://img.shields.io/badge/Available_for-Work_%26_Collabs-00D4AA?style=for-the-badge&labelColor=08080b" alt="available" /></a>
 
 </div>
 
@@ -125,17 +124,6 @@ This is the exact stack those need — and I ship it end to end:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
-### 📊 The numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=narcis-dev&show_icons=true&hide_border=true&title_color=2563EB&icon_color=00D4AA&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=narcis-dev&hide_border=true&background=0d1117&stroke=2563EB&ring=6D28D9&fire=00D4AA&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
-
 ### 🤝 Let's build something
 
 <div align="center">
@@ -152,4 +140,6 @@ This is the exact stack those need — and I ship it end to end:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:2563EB,100:6D28D9&height=120&section=footer&text=Design%20it.%20Build%20it.%20Ship%20it.%20Run%20it.&fontSize=16&fontColor=ffffff&fontAlignY=72" alt="footer" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
+
+<div align="center"><b>Design it. Build it. Ship it. Run it.</b></div>
