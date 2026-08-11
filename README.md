@@ -112,9 +112,6 @@ a fleet of Next.js / PHP sites on my own VPS.
 
 </div>
 
-<!-- Animated contribution graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=narcis-dev&bg_color=0d1117&color=00D4AA&line=6D28D9&point=2563EB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="─" />
 
 ### 🔗 Find me
